@@ -1,3 +1,3 @@
 # CDCSR
 
-Code for Cross-Domain Sentiment Classification using Semantic Representation
+Code for our paper "Cross-Domain Sentiment Classification using Semantic Representation" in EMNLP-Findings,2022
